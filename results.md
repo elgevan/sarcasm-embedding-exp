@@ -29,4 +29,5 @@
 | Gradient Boosting   | Word2Vec                                               | 69.80%   |
 | Gradient Boosting   | Tokenized and Padded                                   | 60.60%   |
 | Random Forest       | Tokenized and Padded                                   | 57.90%   |
+| LLM-as-a-classifier | Mistral 7B LLM                                         | 57.49%   |
 | Logistic Regression | Tokenized and Padded                                   | 56.90%   |
