@@ -9,6 +9,7 @@
 | Logistic Regression | SentenceTransformer: multi-qa-mpnet-base-dot-v1        | 81.20%   |
 | Logistic Regression | SentenceTransformer: jinaai/jina-embeddings-v3         | 81.20%   |
 | Random Forest       | SentenceTransformer: Alibaba-NLP/gte-Qwen2-7B-instruct | 80.90%   |
+| LLM-as-a-classifier | Gemini 1.5 Flash                                       | 80.42%   |
 | Random Forest       | SentenceTransformer: bert-base-uncased                 | 79.70%   |
 | Gradient Boosting   | SentenceTransformer: bert-base-uncased                 | 79.50%   |
 | Logistic Regression | SentenceTransformer: all-mpnet-base-v2                 | 79.10%   |
