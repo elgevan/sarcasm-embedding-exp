@@ -8,3 +8,4 @@ The following embedding methods are evaluated:
 * Various [sentence-transformers](https://www.sbert.net/) embeddings
 * Mistral 7B as an encoder
 * Mistral 7B as a classifier (prompt LLM to determine if headline is parody or news)
+* Gemini 1.5 Flash as a classifier
